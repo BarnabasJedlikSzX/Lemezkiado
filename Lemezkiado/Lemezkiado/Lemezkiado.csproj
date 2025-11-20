@@ -8,4 +8,20 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="language.png" />
+    <None Remove="language.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="language.png" />
+    <Resource Include="language.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="img\language.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
