@@ -16,6 +16,10 @@ namespace Lemezkiado
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        List<Album> albums = Album.LoadFromJson("albums.json");
+        
+
         public MainWindow()
         {
             InitializeComponent();
