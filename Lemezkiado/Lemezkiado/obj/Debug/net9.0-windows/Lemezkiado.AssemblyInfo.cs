@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lemezkiado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8518c243e7a6cb21d138c6c510e0d905f7e355e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6183edfc779370bb86a1cd163905f0633094b8f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lemezkiado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lemezkiado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
