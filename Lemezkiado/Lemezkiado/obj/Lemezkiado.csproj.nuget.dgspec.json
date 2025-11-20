@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\25 26\\projekt\\lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj": {}
+    "Z:\\prog\\12\\cs\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj": {}
   },
   "projects": {
-    "Z:\\25 26\\projekt\\lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj": {
+    "Z:\\prog\\12\\cs\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\25 26\\projekt\\lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj",
+        "projectUniqueName": "Z:\\prog\\12\\cs\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj",
         "projectName": "Lemezkiado",
-        "projectPath": "Z:\\25 26\\projekt\\lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj",
-        "packagesPath": "C:\\Users\\pilter.barnabas.jozs\\.nuget\\packages\\",
-        "outputPath": "Z:\\25 26\\projekt\\lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado\\obj\\",
+        "projectPath": "Z:\\prog\\12\\cs\\Lemezkiado\\Lemezkiado\\Lemezkiado\\Lemezkiado.csproj",
+        "packagesPath": "C:\\Users\\kizmus.noel\\.nuget\\packages\\",
+        "outputPath": "Z:\\prog\\12\\cs\\Lemezkiado\\Lemezkiado\\Lemezkiado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pilter.barnabas.jozs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kizmus.noel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
